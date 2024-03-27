@@ -36,7 +36,7 @@ I specialize in designing robust data pipelines and architectures that drive ins
 
 #### My favourite project:
 1. Pinterest data-pipeline
-2. Multinational Retail Data Centralisation
+2. [Multinational Retail Data Centralisation](https://github.com/Husseinmdarman/MultiNationalData/tree/main)
 
 #### Some of my data analysis work:
 1. [Decision tree classifier on US school admissions](https://github.com/Husseinmdarman/Decision_treeClassifier_US_admittance_Data/blob/master/US-GRADUATE%20PARAM-decision_tree.ipynb)
