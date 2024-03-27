@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+hussein_darman = {
+    'name': 'Hussein Darman',
+    'location': 'Slough, Berkshire, UK',
+    'computer_languages': ['Python', 'C#', 'C++','SQL'],
+    'human_languages': ['English', 'Somali'],
+    'interests': ['Data Engineering','Data Science', 'Machine Learning', 'Generative AI', 'LLM', 'Traveling','Electronic Music'],
+}
+
+🔍 **What I Do:**
+I specialize in designing robust data pipelines and architectures that drive insightful analytics. With a deep understanding of both the theoretical and practical aspects of data engineering, I transform raw data into actionable insights.
+
+🛠️ **Tech Stack:**
+- **Languages:** Proficient in Python, SQL; familiar with C# and C++.
+- **Frameworks & Libraries:** Expertise in Pandas, NumPy, PySpark, Apache Kafka, Apache Spark, Apache Airflow, SQLAlchemy. Familiar with Pytorch and Tensorflow
+- **Databases:** Hands-on experience with PostgreSQL, MySQL, and MongoDB.
+- **Tools:** Skilled in Docker, Kubernetes, and AWS cloud services.
