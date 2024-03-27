@@ -33,3 +33,11 @@ I specialize in designing robust data pipelines and architectures that drive ins
 - **Frameworks & Libraries:** Expertise in Pandas, NumPy, PySpark, Apache Kafka, Apache Spark, Apache Airflow, SQLAlchemy. Familiar with Pytorch and Tensorflow
 - **Databases:** Hands-on experience with PostgreSQL, MySQL, and MongoDB.
 - **Tools:** Skilled in Docker, Kubernetes, and AWS cloud services.
+
+#### My favourite project:
+1. Pinterest data-pipeline
+2. Multinational Retail Data Centralisation
+
+#### Some of my data analysis work:
+1. [Decision tree classifier on US school admissions](https://github.com/Husseinmdarman/Decision_treeClassifier_US_admittance_Data/blob/master/US-GRADUATE%20PARAM-decision_tree.ipynb)
+2. [Association Mining Transaction data](https://github.com/Husseinmdarman/Association-Mining-transaction-data/blob/master/Market%20Basket%20Analysis-%20intradimensional%20Association%20rules.ipynb)
