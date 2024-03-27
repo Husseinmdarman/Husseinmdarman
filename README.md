@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```hussein_darman = {
+#**About Me:**
+```
+hussein_darman = {
     'name': 'Hussein Darman',
     'location': 'Slough, Berkshire, UK',
     'computer_languages': ['Python', 'C#', 'C++','SQL'],
     'human_languages': ['English', 'Somali'],
     'interests': ['Data Engineering','Data Science', 'Machine Learning', 'Generative AI', 'LLM', 'Traveling','Electronic Music'],
-}```
+}
+```
 
 🔍 **What I Do:**
 I specialize in designing robust data pipelines and architectures that drive insightful analytics. With a deep understanding of both the theoretical and practical aspects of data engineering, I transform raw data into actionable insights.
