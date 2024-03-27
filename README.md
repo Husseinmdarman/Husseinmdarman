@@ -41,5 +41,6 @@ I specialize in designing robust data pipelines and architectures that drive ins
 #### Some of my data analysis work:
 1. *[Decision tree classifier on US school admissions]*(https://github.com/Husseinmdarman/Decision_treeClassifier_US_admittance_Data/blob/master/US-GRADUATE%20PARAM-decision_tree.ipynb)
 2. *[Association Mining Transaction data]*(https://github.com/Husseinmdarman/Association-Mining-transaction-data/blob/master/Market%20Basket%20Analysis-%20intradimensional%20Association%20rules.ipynb)
+3. *[Review sentiment analysis]*(https://github.com/Husseinmdarman/Review-sentiment-analysis-/tree/master)
 
 #### - 📫 How to reach me: husseinmdarman@gmail.com
