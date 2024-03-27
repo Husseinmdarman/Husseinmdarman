@@ -35,7 +35,7 @@ I specialize in designing robust data pipelines and architectures that drive ins
 - **Tools:** *Skilled in Docker, Kubernetes, and AWS cloud services.*
 
 #### My favourite project:
-1. *[Pinterest data-pipeline](https://github.com/Husseinmdarman/PinInterest-Data-Pipeline*
+1. *[Pinterest data-pipeline](https://github.com/Husseinmdarman/PinInterest-Data-Pipeline)*
 2. *[Multinational Retail Data Centralisation](https://github.com/Husseinmdarman/MultiNationalData/tree/main)*
 
 #### Some of my data analysis work:
