@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 <!--
 **Husseinmdarman/Husseinmdarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# **About Me:**
+#### **About Me:**
 ```
 hussein_darman = {
     'name': 'Hussein Darman',
@@ -25,10 +25,10 @@ hussein_darman = {
 }
 ```
 
-## 🔍 **What I Do:**
+#### 🔍 **What I Do:**
 I specialize in designing robust data pipelines and architectures that drive insightful analytics. With a deep understanding of both the theoretical and practical aspects of data engineering, I transform raw data into actionable insights.
 
-## 🛠️ **Tech Stack:**
+#### 🛠️ **Tech Stack:**
 - **Languages:** Proficient in Python, SQL; familiar with C# and C++.
 - **Frameworks & Libraries:** Expertise in Pandas, NumPy, PySpark, Apache Kafka, Apache Spark, Apache Airflow, SQLAlchemy. Familiar with Pytorch and Tensorflow
 - **Databases:** Hands-on experience with PostgreSQL, MySQL, and MongoDB.
