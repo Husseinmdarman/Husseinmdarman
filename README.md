@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 #### **About Me:**
 ```
-*hussein_darman = {
+<em>hussein_darman = {
     'name': 'Hussein Darman',
     'location': 'Slough, Berkshire, UK',
     'computer_languages': ['Python', 'C#', 'C++','SQL'],
     'human_languages': ['English', 'Somali'],
     'interests': ['Data Engineering','Data Science', 'Machine Learning', 'Generative AI', 'LLM', 'Traveling'],
-}*
+}<em>
 ``` 
 
 #### 🔍 **What I Do:**
